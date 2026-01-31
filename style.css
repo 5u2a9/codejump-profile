@@ -110,12 +110,6 @@ html body {
     justify-content: center;
     height: 100px;
     }
-    
-@media(max-width: 600px ) {
-    .aboutcontent {
-    justify-content: center;
-    }
-}
 
 .aboutcontent img {
     border-radius: 50%;
