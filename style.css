@@ -9,7 +9,6 @@ html body {
 
 @media(max-width: 600px ) {
     .container {
-        max-width: 600px;
         padding: 0 15px;
     }
 }
